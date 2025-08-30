@@ -7,8 +7,8 @@ It contains links to my projects, basic information about me, and will be contin
 [View Portfolio](https://jasonkong-coder.github.io/Personal-Portfolio/)
 
 ## 📂 Projects Included
-- Tribute Page
-- Survey Form
+- Availability Table
+- Magazine Layout
 - Product Landing Page
 - Fortune Teller
 - (More projects coming soon...)
